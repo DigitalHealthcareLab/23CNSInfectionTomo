@@ -1,0 +1,4 @@
+csf_test:
+  group1: bacteria
+  group2: virus
+  celltype: WBC
