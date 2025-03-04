@@ -1,0 +1,6 @@
+
+
+python create_csf_task_bacteria_virus.py
+python main_csf_task_bacteria_virus.py
+python check_accuracy.py
+python draw_gradcam.py
