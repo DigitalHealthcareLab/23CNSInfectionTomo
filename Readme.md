@@ -67,7 +67,12 @@ Root
 
 
 #### 2) How to start?
-
+<b> Initialize Virtual Venv </b>
+```bash
+python -m venv csf_venv # must be 3.9.12, check with python -V
+source csf_venv/bin/activate
+pip install -r requirements.txt
+```
 <b> Good or Poor Prognosis </b>
 ```bash
 bash run_task.sh prognosis csf_good_poor
