@@ -1,0 +1,13 @@
+torch==1.12.1
+torchvision==0.13.1
+pandas==1.5.2
+numpy==1.23.0
+scikit-learn
+matplotlib
+seaborn
+scipy
+pyyaml==6.0.2
+ipykernel
+urllib3==1.26.6
+
+# python -m ipykernel install --user --name=csf_venv
