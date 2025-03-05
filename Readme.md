@@ -60,6 +60,7 @@ Root
 ├── create_task.py : Load data information and split train-valid-test by the given task
 ├── draw_gradcam.py : Interpretation
 ├── main.py : Main file for training the file
+├── <b>overview.ipynb</b> : Overview of the model and get sample output
 ├── Readme.md : this file
 └── task.yaml : User can specify the task for running.
 </pre>
