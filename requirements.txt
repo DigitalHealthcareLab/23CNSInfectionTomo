@@ -11,3 +11,4 @@ ipykernel
 urllib3==1.26.6
 
 # python -m ipykernel install --user --name=csf_venv
+# python -m ipykernel install --user --name=csf_venv --display-name "Python (csf_venv)"
